@@ -29,6 +29,6 @@ def line():
     dis = math.sqrt((x2 - x1)**2 + (y2 - y1)**2)
     print(f"\nLa distancia entre ellos es: {dis}")
 
-
+line()
 
 
